@@ -1,0 +1,116 @@
+.padre{
+	background-color: #0d0d0d;
+	width: 100%;
+	height: 908%
+	position:relative;
+	z-index: 1;
+}
+.logococacola{
+	height: 238px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	z-index: 2;
+	bottom: 550px;
+}
+.cocacolatext{
+	height: 908px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	z-index: 3;
+	left:80px;
+}
+.botellacocacola{
+	height: 630px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	z-index: 4;
+	top: 80px;
+}
+.barralat{
+	height: 770px;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	z-index: 5;
+	left: 50px
+}
+.botones{
+	height: 50px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	z-index: 6;
+	left: 540px;
+}
+.tituloMenu{
+	font-style: normal;
+	font-size: 400%;
+}
+
+/*AQUI ESTA LO ANTERIOR*/
+.altura{
+	height: 150px;
+ }
+ .circle{
+	height: 80%;
+	width: 80%;
+	border-radius: 80%;
+ }
+ .altura3{
+	height: 800px;
+ }
+ .altura4{
+	height: 10px;
+ }
+ .altura5{
+	height: 400px;
+ }
+ .circle1{
+	height: 40%;
+	width: 100%;
+	border-radius: 100%;
+ }
+ .altura6{
+	height: 20px;
+ }	
+  .altura7{
+	height: 300px;
+ }
+  .altura8{
+	height: 400px;
+ }
+ .circle2{
+	height: 20%;
+	width: 50%;
+	border-radius: 100%;
+ }
+.altura9{
+	height: 20px;
+ }
+ .altura10{
+	height: 100px;
+ }
+.triangle{
+     width: 0; 
+     height: 0; 
+     border-left: 78px solid pink;
+     border-top: 45px solid transparent;
+     border-bottom: 45px solid transparent;
+ }
+.centrar{
+	display:flex;
+	justify-content:center;
+	align-items: center;
+}
+ .circle3{
+	height: 10%;
+	width: 100%;
+	border-radius: 100%;
+ }
